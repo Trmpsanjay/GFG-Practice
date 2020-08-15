@@ -1,3 +1,12 @@
+/*
+
+For o(n) time
+https://www.geeksforgeeks.org/find-the-smallest-positive-number-missing-from-an-unsorted-array/
+
+
+*/
+
+
 // { Driver Code Starts
 import java.util.*;
 
